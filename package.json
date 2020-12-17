@@ -1,0 +1,24 @@
+{
+  "name": "form-package-vue",
+  "version": "1.0.0",
+  "description": "Just configure the json data, and then create a form based on the json data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqzhen/form-package-vue.git"
+  },
+  "keywords": [
+    "form",
+    "package",
+    "vue"
+  ],
+  "author": "cqzhen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cqzhen/form-package-vue/issues"
+  },
+  "homepage": "https://github.com/cqzhen/form-package-vue#readme"
+}
